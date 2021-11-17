@@ -1,0 +1,53 @@
+.landing{
+  width: 77% !important;
+  height: 100%;
+}
+
+.jbt{
+  width: 100%;
+  background-image: url('../public/images/landing.svg');
+  height: 95vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ket{
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 83px;
+  color: white;
+  margin-bottom: 50px;
+}
+.ket2{  
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;  
+  color: #FFFFFF;
+  margin-bottom: 50px;
+}
+.try{
+  background: #FFFFFF !important;
+  border: 1px solid white;
+  box-shadow: 0px 6px 75px rgba(100, 87, 87, 0.05);
+  border-radius: 12px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 130px;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #6379F4;
+}
+.try:hover{
+  background: #6379F4 !important;
+  border: 1px solid white;
+  color: white;
+}
+
+.iklan{
+  background: rgba(71, 58, 209, 0.06);
+  height: 30vh;
+}

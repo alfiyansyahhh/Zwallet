@@ -1,0 +1,61 @@
+.nameHistory{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #3A3D42;
+    width: 75%;
+}
+
+.historyS{
+    height: 450px;
+    width: 95%;
+    overflow-y: scroll;
+    margin-top: 20px;
+}
+
+.history{
+    display: flex;
+    width: 100%;
+}
+
+.ppHis{
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.nameH{  
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 22px;
+    /* identical to box height */
+    margin-left: 15px;
+    margin-top: 20px;
+    color: #4D4B57;
+}
+
+.green{
+    color: #1EC15F;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.red{
+    color: #FF5B37;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.hr{
+    width: 45%;
+    text-align: end;
+}
