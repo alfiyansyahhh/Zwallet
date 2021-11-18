@@ -5,11 +5,11 @@
 
 ## screenshoot
 
-register|login|Home Page|
+login|register|Home Page|
 :---------:|:---------:|:---------:|
 ![](https://alfiyansyahhh.skom.id/gambar/Screenshot%20%28520%29.png)|![](https://alfiyansyahhh.skom.id/gambar/Screenshot%20%28521%29.png)|![](https://alfiyansyahhh.skom.id/gambar/Screenshot%20%28522%29.png)
 landing-page|profile|screenshoot|
-![landing-page](https://i.postimg.cc/8zqmTP6z/Screenshot-470.png)]|![profile](https://i.postimg.cc/nVk2qJ63/Screenshot-466.png)
+![landing-page](https://i.postimg.cc/8zqmTP6z/Screenshot-470.png)|![profile](https://i.postimg.cc/nVk2qJ63/Screenshot-466.png)
 
 
 
