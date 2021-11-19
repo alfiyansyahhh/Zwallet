@@ -37,9 +37,14 @@ there is multer, redux, sequelize, bcrypt, jsonwebtoken and has implemented midd
 
 Get api here [Backend](https://github.com/alfiyansyahhh/Zwallet-BE)
 
-edit env.example
-NEXT_PUBLIC_API_URL= 'ENTER YOUR API'
-delete .example just use .env 
+```edit env.example```
+
+```NEXT_PUBLIC_API_URL= 'ENTER YOUR API'```
+
+```delete .example just use .env```
+
+```Run project npm start```
+
 
 ### Installation
 
