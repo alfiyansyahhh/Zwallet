@@ -37,7 +37,9 @@ there is multer, redux, sequelize, bcrypt, jsonwebtoken and has implemented midd
 
 ```Get api here``` - [Backend](https://github.com/alfiyansyahhh/Zwallet-BE)
 
-```edit env.example```
+```Clone project``` - <a href="#installation">Installation</a>
+
+```edit env.example``` 
 
 ```NEXT_PUBLIC_API_URL= 'ENTER YOUR API'```
 
