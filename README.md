@@ -35,7 +35,7 @@ there is multer, redux, sequelize, bcrypt, jsonwebtoken and has implemented midd
 <!-- GETTING STARTED -->
 ## Getting Started
 
-```Get api here [Backend](https://github.com/alfiyansyahhh/Zwallet-BE)```
+```Get api here``` - [Backend](https://github.com/alfiyansyahhh/Zwallet-BE)
 
 ```edit env.example```
 
