@@ -32,21 +32,6 @@ there is multer, redux, sequelize, bcrypt, jsonwebtoken and has implemented midd
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-```Get api here``` - [Backend](https://github.com/alfiyansyahhh/Zwallet-BE)
-
-```Clone project``` - <a href="#installation">Installation</a>
-
-```edit env.example``` 
-
-```NEXT_PUBLIC_API_URL= 'ENTER YOUR API'```
-
-```delete .example just use .env```
-
-```Run project npm start```
-
 
 ### Installation
 
@@ -58,14 +43,25 @@ there is multer, redux, sequelize, bcrypt, jsonwebtoken and has implemented midd
    ```sh
    npm install
    ```
-3. Enter your API in `env`
-   ```js add env 
+ 
+### Getting Started
+
+1. Edit env.example
+   ```sh
    NEXT_PUBLIC_API_URL= 'ENTER YOUR API'
    ```
+2. Delete .example 
+    ```sh 
+    just use .env
+    ```
+3. Run project 
+    ```sh
+    npm start
+    ```
+
+   Get api here - [Backend](https://github.com/alfiyansyahhh/Zwallet-BE)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
