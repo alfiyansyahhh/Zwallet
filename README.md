@@ -43,6 +43,8 @@ there is multer, redux, sequelize, bcrypt, jsonwebtoken and has implemented midd
    ```sh
    npm install
    ```
+   
+<p align="right">(<a href="#top">back to top</a>)</p>
  
 ### Getting Started
 
