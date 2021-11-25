@@ -25,8 +25,8 @@ const Navbar = ({isLogin, user}) => {
                             <div className={styles.logo}>Zwallet</div>
                         </Link>
                     </Col>
-                    <Col lg="6" xs="8" className="text-end">
-                        <div className='p-3'>
+                    <Col lg="6" xs="8">
+                        <div className='p-3 d-flex justify-content-end'>
                             <Link href="/login">
                                 <button className={styles.accs}>Login</button>
                             </Link>

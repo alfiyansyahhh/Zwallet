@@ -47,6 +47,9 @@ const Login = () => {
         <div className="formInput d-flex flex-column justify-content-center align-items-center">      
             <div className="d-flex flex-column w-75">
                 <div className="pb-5">
+                    <Link href="/" >
+                        <div className="logo2">Zwallet</div>
+                    </Link>
                     <h3>
                         Start Accessing Banking Needs
                         With All Devices and All Platforms

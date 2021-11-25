@@ -26,6 +26,15 @@ a {
   padding: 10px;
   cursor: pointer;
 }
+.logo2{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 40px;  
+  color: #6379F4;
+  cursor: pointer;
+}
 
 .bg{
   background-image: url("../public/images/bg.svg");

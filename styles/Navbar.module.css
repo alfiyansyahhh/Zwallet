@@ -50,11 +50,17 @@
     border-radius: 10px;
     cursor: pointer;
 }
+.menumini{
+   display: none;
+}
+.menumini2{
+    display: none;
+}
 
 @media screen and (max-width: 500px) {
 
     .nv{
-        width: 85%;
+        width: 90%;
         height: 100%;
     }
     .navbar2{

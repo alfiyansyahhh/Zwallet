@@ -44,6 +44,9 @@ const Register = () => {
         <LayoutBg >
         <div className="d-flex flex-column w-75">
                 <div className="pb-5">
+                    <Link href="/" >
+                        <div className="logo2">Zwallet</div>
+                    </Link>
                     <h3>
                         Start Accessing Banking Needs
                         With All Devices and All Platforms
