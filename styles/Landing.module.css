@@ -1,0 +1,185 @@
+.landing{
+  width: 77% !important;
+  height: 100%;
+}
+
+.jbt{
+  width: 100%;
+  background-image: url('../public/images/landing.svg');
+  height: 95vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.ket{
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 83px;
+  color: white;
+  margin-bottom: 50px;
+}
+.ket2{  
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;  
+  color: #FFFFFF;
+  margin-bottom: 50px;
+}
+.gmbrJmb{
+  display: flex;
+  justify-content: end;
+}
+.try{
+  background: #FFFFFF !important;
+  border: 1px solid white;
+  box-shadow: 0px 6px 75px rgba(100, 87, 87, 0.05);
+  border-radius: 12px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 130px;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #6379F4;
+}
+.try:hover{
+  background: #6379F4 !important;
+  border: 1px solid white;
+  color: white;
+}
+
+.iklan{
+  background: rgba(71, 58, 209, 0.06);
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about{
+  background-color: #FFFFFF;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.titleAbout{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 93px;
+  color: black;
+}
+.ba{
+  color: #6379F4;
+}
+.ketA{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 31px;
+  text-align: center;
+  color: #3A3D42;
+}
+.cardA{
+  background: #FFFFFF;
+  box-shadow: 0px 1px 25px rgba(197, 195, 195, 0.664);
+  border-radius: 20px;
+  margin-left: 20px;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.ketCard{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  text-align: center;
+  color: rgba(58, 61, 66, 0.9);
+}
+.great{
+  background: #473AD10F;
+  height: 1015px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.phoneG{
+  height: 50px !important;
+  width: 50px!important;
+}
+.titleGreat{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 55px;
+  text-align: start !important;
+  line-height: 93px;
+  color: #3A3D42;
+}
+.CardGreat{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.ketCardGreat{
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 31px;
+  color: rgba(58, 61, 66, 0.9);
+  text-align: start !important;
+}
+
+@media screen and (max-width: 500px) {
+  .ket{
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .gmbrJmb{
+    display: none;
+  }
+  .iklan{
+    height: 10vh;
+  }
+  .about{
+    height: 1300px;
+  }
+  .cardA{
+    margin-top: 20px;
+  }
+  .titleAbout{
+    text-align: center;
+    font-size: 20px;
+  }
+  .great{
+    height: 715px;
+  }
+  .gmbr{
+    display: none;
+  }
+  .titleGreat{
+    text-align: center;
+    font-size: 25px;
+    line-height: 43px;
+  }
+}
